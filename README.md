@@ -4,7 +4,6 @@ Did you know that you can quickly develop web applications in just a few lines o
 
 ## Video Tutorial
 
-[![YouTube Video](https://img.youtube.com/vi/ZDffoP6gjxc/0.jpg)](https://youtu.be/ZDffoP6gjxc)
 
 ## Author
 
