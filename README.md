@@ -8,5 +8,5 @@ Did you know that you can quickly develop web applications in just a few lines o
 ## Author
 
 - Benjamin from Gr8mindshub
-- YouTube: https://youtube.com/c/CodingIsFun
+- YouTube: 
 - Website: https://gr8mindshub.com
