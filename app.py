@@ -46,5 +46,5 @@ if uploaded_file:
 
     # Here we plot the relationship between Attrition and the selected continuous variables
     st.subheader(f'Relationship between Attrition and {groupby_cont_column}')
-    fig3 = sns.catplot(df, kind="box", y=groupby_cont_column, x="Attrition") #hue="Attrition")
-    st.pyplot(fig3)
+    fig2 = sns.catplot(df, kind="box", y=groupby_cont_column, x="Attrition") #hue="Attrition")
+    st.pyplot(fig2)
